@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/sagarkhanal1/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
 - [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
