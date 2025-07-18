@@ -1,12 +1,16 @@
 <h1>Hi, I'm Sagar!</h1>
+# 👋 Hi, I'm Sagar Khanal
 
+🎯 Aspiring IT Professional | 🔧 System & Network Enthusiast | 📚 Lifelong Learner
+
+Welcome to my GitHub profile! I'm currently working as a Operations Technician while actively developing my skills in IT support, networking, and cybersecurity. I have a Bachelor's degree in Networking from Melbourne Institute of Technology and certifications such as CompTIA Network+.
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Lab](https://github.com/sagarkhanal1/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
-- [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Network+](https://www.credly.com/badges/ef7fef80-392a-40da-ab5e-7bcc2f9b52c8/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
