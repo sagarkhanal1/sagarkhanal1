@@ -12,7 +12,17 @@ Welcome to my GitHub profile! I'm currently working as a Operations Technician w
   - [Group Policy Management](https://github.com/sagarkhanal1/Group-Policy-Management)
 - <b>Setting Up a File Server with Advanced Permissions</b>
   - [File Server Setup](https://github.com/sagarkhanal1/File-Server-Configuration)
-    
+
+
+<h2>🛡️Cyber Security Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Lab](https://github.com/sagarkhanal1/ActiveDirectoryLab)
+- <b>Group Policy Management</b>
+  - [Group Policy Management](https://github.com/sagarkhanal1/Group-Policy-Management)
+- <b>Setting Up a File Server with Advanced Permissions</b>
+  - [File Server Setup](https://github.com/sagarkhanal1/File-Server-Configuration)
+
 <h2>Certifications</h2>
 - [CompTIA Network+](https://www.credly.com/badges/ef7fef80-392a-40da-ab5e-7bcc2f9b52c8/public_url)
 
