@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm currently working as a Operations Technician w
   - [Group Policy Management](https://github.com/sagarkhanal1/Group-Policy-Management)
 - <b>Setting Up a File Server with Advanced Permissions</b>
   - [File Server Setup](https://github.com/sagarkhanal1/File-Server-Configuration)
-
+- <b>Setting up corporate Network Architecture with pfsense Firewall/Routing and VLAN Segmentation</b>
+  - [Routing, Firewall and VLAN](https://github.com/sagarkhanal1/File-Server-Configuration)
 
 <h2>🛡️Cyber Security Projects:</h2>
 
