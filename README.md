@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm currently working as a Operations Technician w
 
 <h2>🛡️Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Lab](https://github.com/sagarkhanal1/ActiveDirectoryLab)
+- <b>Cyber Security LAB setup</b>
+  - [Cyber-LAB-Setup](https://github.com/sagarkhanal1/Corporate-AD-Lab-Setup)
 
 
 <h2>Certifications</h2>
