@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm currently working as a Operations Technician w
 - <b>Cyber Security LAB setup</b>
   - [Cyber-LAB-Setup](https://github.com/sagarkhanal1/Corporate-AD-Lab-Setup)
 
+- <b>Wazuh SIEM Lab: Manager & Agents Deployment</b>
+  - [Wazuh-SIEM-Deployment](https://github.com/sagarkhanal1/Wazuh_SIEM_Deployment)
+
 
 <h2>Certifications</h2>
 - [CompTIA Network+](https://www.credly.com/badges/ef7fef80-392a-40da-ab5e-7bcc2f9b52c8/public_url)
