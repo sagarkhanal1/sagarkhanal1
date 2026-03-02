@@ -8,9 +8,17 @@ Welcome to my GitHub profile! I'm currently working as a IT Support Engineer whi
 
 - <b>Cyber Security LAB setup</b>
   - [Cyber-LAB-Setup](https://github.com/sagarkhanal1/Corporate-AD-Lab-Setup)
-
 - <b>Wazuh SIEM Lab: Manager & Agents Deployment</b>
   - [Wazuh-SIEM-Deployment](https://github.com/sagarkhanal1/Wazuh_SIEM_Deployment)
+- <b>Brute Force Detection With Wazuh</b>
+  - [Wazuh-Brute-Force](https://github.com/sagarkhanal1/Wazuh-Brute-Force-Detection)
+- <b>Powershell Abuse Detection With Wazuh</b>
+  - [Powershell-Abuse-Detection](https://github.com/sagarkhanal1/Powershell-Abuse-Detection-Wazuh-Sysmon-)
+- <b>Detection Engineering With Wazuh</b>
+  - [Detection-Engineering-With-Wazuh](https://github.com/sagarkhanal1/Detection-Engineering-With-Wazuh)
+- <b>Persistence Detection With Wazuh</b>
+  - [Persistence_Detection](https://github.com/sagarkhanal1/Persistence_Detection-Detecting_New_Admin_Account-)
+
 
 <h2>👨‍💻 IT Projects:</h2>
 
