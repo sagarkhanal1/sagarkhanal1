@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm currently working as a IT Support Engineer whi
       - [Detection-Engineering-With-Wazuh](https://github.com/sagarkhanal1/Detection-Engineering-With-Wazuh)
     - <b>Persistence Detection With Wazuh</b>
       - [Persistence_Detection](https://github.com/sagarkhanal1/Persistence_Detection-Detecting_New_Admin_Account-)
-
+- <b>Microsoft Azure Sentinel</b>
+  - [Azure-Sentinel-Lab](https://github.com/sagarkhanal1/Azure-Sentinel-Cyber-Security-LAB)
 
 <h2>👨‍💻 IT Projects:</h2>
-
 - <b>Active Directory Home Lab</b>
   - [Active Directory Lab](https://github.com/sagarkhanal1/ActiveDirectoryLab)
 - <b>Group Policy Management</b>
